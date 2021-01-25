@@ -48,9 +48,9 @@ pip install -r requirements.txt
 
 
 ### IMPLEMENTATION
-1. Project Directory
+#### 1. Project Directory
 
-
+![](https://github.com/chandrudp29/Natural-Language-Projects/blob/master/Speech%20to%20Text/images/2.png)
 
 
 
@@ -61,19 +61,19 @@ pip install -r requirements.txt
 
 
 This is the folder stucture of this project.
-2. requirements.txt
-
+#### 2. requirements.txt
+![](https://github.com/chandrudp29/Natural-Language-Projects/blob/master/Speech%20to%20Text/images/3.png)
 
 
 This file contains the necessary package called SpeechRecognition
 
 
-3. speechToText.py
-
+#### 3. speechToText.py
+![](https://github.com/chandrudp29/Natural-Language-Projects/blob/master/Speech%20to%20Text/images/4.png)
 
 This file contains the script to convert the speech to text using SpeechRecognition package.
-4. clientApp.py
-
+#### 4. clientApp.py
+![](https://github.com/chandrudp29/Natural-Language-Projects/blob/master/Speech%20to%20Text/images/5.png)
 
 
 
