@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ### WORKFLOW DIAGRAM
 
-
+![](https://github.com/chandrudp29/Natural-Language-Projects/blob/master/Speech%20to%20Text/images/1.png)
 
 
 
